@@ -1,0 +1,1 @@
+*/5 * * * * cd /monitoring && ./runTestAndReport.sh >> /var/log/cron.log 2>&1
